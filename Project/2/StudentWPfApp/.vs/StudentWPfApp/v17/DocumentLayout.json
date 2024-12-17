@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\4\\3\\2\\StudentWPfApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|F:\\4\\3\\2\\StudentWPfApp\\studentwpfapp\\quastion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|solutionrelative:studentwpfapp\\quastion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|f:\\4\\3\\2\\studentwpfapp\\studentwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|solutionrelative:studentwpfapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|F:\\4\\3\\2\\StudentWPfApp\\studentwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|solutionrelative:studentwpfapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|F:\\4\\3\\2\\StudentWPfApp\\studentwpfapp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|solutionrelative:studentwpfapp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|F:\\4\\3\\2\\StudentWPfApp\\studentwpfapp\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|solutionrelative:studentwpfapp\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|F:\\4\\3\\2\\StudentWPfApp\\studentwpfapp\\window1.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|solutionrelative:studentwpfapp\\window1.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|F:\\4\\3\\2\\StudentWPfApp\\studentwpfapp\\classesforstudentwpfapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|solutionrelative:studentwpfapp\\classesforstudentwpfapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|F:\\4\\3\\2\\StudentWPfApp\\studentwpfapp\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4595E5F-8212-4E27-A7FD-3657AE1D0C09}|StudentWPfApp\\StudentWPfApp.csproj|solutionrelative:studentwpfapp\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 400,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassesForStudentWPFApp.cs",
+              "DocumentMoniker": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\ClassesForStudentWPFApp.cs",
+              "RelativeDocumentMoniker": "StudentWPfApp\\ClassesForStudentWPFApp.cs",
+              "ToolTip": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\ClassesForStudentWPFApp.cs",
+              "RelativeToolTip": "StudentWPfApp\\ClassesForStudentWPFApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:05:24.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "StudentWPfApp\\Window1.xaml.cs",
+              "ToolTip": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\Window1.xaml.cs",
+              "RelativeToolTip": "StudentWPfApp\\Window1.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:31:27.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\Window1.xaml",
+              "RelativeDocumentMoniker": "StudentWPfApp\\Window1.xaml",
+              "ToolTip": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\Window1.xaml",
+              "RelativeToolTip": "StudentWPfApp\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T14:29:01.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quastion.cs",
+              "DocumentMoniker": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\Quastion.cs",
+              "RelativeDocumentMoniker": "StudentWPfApp\\Quastion.cs",
+              "ToolTip": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\Quastion.cs",
+              "RelativeToolTip": "StudentWPfApp\\Quastion.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAAwwNYBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:27:00.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentWPfApp\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentWPfApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:25:47.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\Window1.xaml",
+              "RelativeDocumentMoniker": "StudentWPfApp\\Window1.xaml",
+              "ToolTip": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\Window1.xaml",
+              "RelativeToolTip": "StudentWPfApp\\Window1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-07T14:51:16.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentWPfApp\\MainWindow.xaml",
+              "ToolTip": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\MainWindow.xaml",
+              "RelativeToolTip": "StudentWPfApp\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:04:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentWPfApp\\MainWindow.xaml",
+              "ToolTip": "F:\\4\\3\\2\\StudentWPfApp\\StudentWPfApp\\MainWindow.xaml",
+              "RelativeToolTip": "StudentWPfApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T11:25:47.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
